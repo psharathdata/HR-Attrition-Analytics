@@ -1,0 +1,21 @@
+EmployeeNumber,Department,JobRole,Age,MonthlyIncome,OverTime,YearsAtCompany,JobSatisfaction,RiskScore,RiskCategory
+1494,Research & Development,Laboratory Technician,24,3172,Yes,0,1,99.9,High Risk
+1944,Human Resources,Human Resources,27,2863,No,1,2,99.9,High Risk
+622,Research & Development,Laboratory Technician,26,2340,Yes,1,4,99.7,High Risk
+1016,Research & Development,Research Scientist,20,2600,Yes,1,1,99.4,High Risk
+587,Research & Development,Healthcare Representative,31,9824,No,1,3,99.4,High Risk
+1458,Research & Development,Laboratory Technician,39,3646,Yes,1,1,99.2,High Risk
+167,Sales,Sales Representative,19,1675,Yes,0,3,99.1,High Risk
+55,Research & Development,Laboratory Technician,26,2293,No,1,3,99.0,High Risk
+1248,Research & Development,Research Scientist,19,1859,Yes,1,2,99.0,High Risk
+1504,Research & Development,Laboratory Technician,28,2561,No,0,1,99.0,High Risk
+1487,Sales,Sales Executive,29,5765,No,5,2,98.9,High Risk
+952,Sales,Sales Representative,25,2413,Yes,1,2,98.9,High Risk
+1079,Research & Development,Laboratory Technician,21,1416,No,1,1,98.8,High Risk
+970,Sales,Sales Executive,37,10609,No,14,3,98.7,High Risk
+1878,Research & Development,Research Scientist,22,2472,Yes,1,2,98.7,High Risk
+1427,Sales,Sales Representative,31,1359,No,1,3,98.7,High Risk
+1758,Sales,Sales Executive,33,8564,Yes,0,1,98.6,High Risk
+299,Sales,Sales Executive,30,6696,No,6,1,98.5,High Risk
+1868,Research & Development,Research Scientist,29,2439,Yes,1,4,98.4,High Risk
+1844,Human Resources,Human Resources,29,2335,Yes,2,1,98.4,High Risk
